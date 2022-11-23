@@ -1,0 +1,45 @@
+/*CSS Hoja de Estilo oja1.css*/
+
+body {
+	FONT-SIZE: 12PX;
+}
+
+UL {
+	LIST-STYLE: NONE;
+}
+
+UL.MENU LI {
+	display: inline;
+	background-color: antiquewhite;
+	margin-right: 10px;
+	padding: 5px;
+	color: black;
+}
+
+h2 {
+	font-size: 16px;
+	color: darkred;
+}
+
+li h3 {
+	font-size: 14px;
+	color: blue;
+}
+
+ul li {
+	font-size: 13px;
+	
+}
+
+#Artículos_TIC {
+	font-size: 14px;
+	color: green;
+}
+
+li h4 {
+	color: darkred;
+}
+
+a:link {
+	text-decoration: none;
+}
